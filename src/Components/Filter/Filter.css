@@ -1,0 +1,52 @@
+.buttonLogOff {
+    height: 50px;
+    outline: none;
+    padding: 10px;
+    background-color: crimson;
+    color: cyan;
+    border: 0px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+.FilterButton{
+    height: 50px;
+    outline: none;
+    padding: 10px;
+    background-color: crimson;
+    color: cyan;
+    border: 0px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.formDivision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.InputEndDate{
+    margin-left: 30px;
+}
+.BtnFilter{
+    margin-left: 30px;
+}
+.Border-Table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.FilteredDataa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
